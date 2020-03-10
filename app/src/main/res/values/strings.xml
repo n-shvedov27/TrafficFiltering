@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrafficFiltering</string>
+    <string name="long_app_name">app name</string>
+    <string name="notification_welcome_message">notification</string>
+</resources>
